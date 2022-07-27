@@ -1,12 +1,12 @@
 # PacMen-
-## Description
-A Pacman on demand is created by a click to the button "Add Pacman". With each click a Pacman appears on the screen at a random position. 
-A "Start Game" button makes the Pacmen move at random velocities as soon as it is clicked. 
-Once a Pacman hits on of the edges of the screen it changes its direction.
 
 <img src="PacMan1.png" width="450" height="300">
 
 
+## Description
+A Pacman on demand is created by a click to the button "Add Pacman". With each click a Pacman appears on the screen at a random position. 
+A "Start Game" button makes the Pacmen move at random velocities as soon as it is clicked. 
+Once a Pacman hits on of the edges of the screen it changes its direction.
 
 ## What's included?
 This repository includes the following files:
